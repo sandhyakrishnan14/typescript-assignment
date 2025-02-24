@@ -1,0 +1,14 @@
+var num;
+num = [1, 2, 3, 4, 5];
+console.log(num);
+console.log(typeof (num));
+var itjobs;
+itjobs = ["support team", "tester", "developer"];
+console.log(itjobs);
+console.log(typeof (itjobs));
+var booleans = [true, false, true];
+console.log(booleans);
+console.log(typeof (booleans));
+var data = ["sandhya", 19, "nila", 18];
+console.log(data);
+console.log(typeof (data));
